@@ -1,7 +1,7 @@
 <h1 align="center">Gustavo Rangel - Developer</h1>
 
 <p align="center">
-🎓 Estudante de Análise e Desenvolvimento de Sistemas - Último Ano <br>
+🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
 💻 Apaixonado por análise, dados e resolução de problemas! <br>
 🎯 Foco atual: Python, IA, Automação <br>
 🌱 Sempre buscando o melhor...
