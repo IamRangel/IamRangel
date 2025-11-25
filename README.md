@@ -1,10 +1,9 @@
-<h1 align="center">Gustavo Rangel - Developer</h1>
+<h1 align="center">Gustavo Rangel - Developer | Data & IA</h1>
 
 <p align="center">
-🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
-💻 Apaixonado por análise, dados e resolução de problemas! <br>
-🎯 Foco atual: Python, IA, Automação <br>
-🌱 Sempre buscando o melhor...
+🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>
+💡 Foco em Dados, Python e Automação<br> 
+🚀 Desenvolvedor em formação, construindo projetos sólidos e aplicando tecnologia para resolver problemas reais.<br> 
 </p>
 
 ---
@@ -12,27 +11,18 @@
 ✨ Tecnologias:
 
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="70" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="70" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="70" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="70" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="70" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="70" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70" alt="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" title="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" title="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="60" title="SQLite"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" title="Pandas"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" title="NumPy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" title="GitHub"/>
 </p>
 
 ---
 
-📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IamRangel&show_icons=true&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamRangel&layout=compact&langs_count=8&theme=tokyonight" />
-</p>
-
----
 
 📫 INTERESSE EM UMA CONVERSA? ENTRE EM CONTATO:
 
@@ -40,6 +30,17 @@
 
 ---
 
-⭐️🧠  
-Sou um entusiasta da tecnologia e apaixonado por resolver problemas do mundo real com código. Durante a graduação, mergulhei em projetos práticos com foco em PHP, MySQL, lógica de programação e desenvolvimento web.  
-Além do código, gosto de estudar inglês, me inspirar com a comunidade dev e tomar um bom café enquanto programo ☕👨‍💻.
+## 📌 Sobre mim
+
+Sou apaixonado por tecnologia e por criar soluções que simplifiquem processos e gerem valor.  
+Meus projetos são guiados por boas práticas, organização, clareza e evolução constante.
+
+Atualmente, estou aprofundando meus estudos em:
+
+- Python para dados  
+- APIs e automações  
+- Inteligência Artificial aplicada  
+- Boas práticas de engenharia  
+
+Gosto de aprender, compartilhar conhecimento e transformar ideias em código funcional.  
+E claro — um bom café sempre acompanha o processo ☕👨‍💻
